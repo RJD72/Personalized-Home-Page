@@ -20,6 +20,9 @@ const quotes = [
   "Change your thoughts and you change your world. – Norman Vincent Peale",
   "Nothing is impossible, the word itself says, “I’m possible!” – Audrey Hepburn",
   "You can't control what happens, only what happens next",
+  "You are always responsible for what you say and how you act, no matter how you feel.",
+  "Self-discipline begins with mastering your own thoughts. If you don't control what you think, you can't control what you do.",
+  "You don't need a new day to start over. You only need a new mindset.",
 ];
 
 const background = [
